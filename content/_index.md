@@ -1,6 +1,6 @@
 ---
-title: My Site
-toc: false
+title: Geekess' Cookbook
+toc: true
 ---
 
 This is the landing page.
@@ -8,10 +8,10 @@ This is the landing page.
 ## Explore
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
+  {{< card link="docs" title="Recipes" icon="book-open" >}}
   {{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}
 
-## Documentation
+## Recipes
 
 For more information, visit [Hextra](https://imfing.github.io/hextra).
