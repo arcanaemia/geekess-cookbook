@@ -1,8 +1,8 @@
 ---
-title: Folder
+title: Bread
 type: docs
 prev: docs/first-page
-next: docs/folder/leaf
+next: docs/bread/leaf
 sidebar:
   open: true
 ---
