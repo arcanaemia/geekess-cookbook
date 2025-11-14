@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: Geekess' Cookbook
 
 # import hextra as module
 module:
@@ -18,7 +18,7 @@ markup:
 
 menu:
   main:
-    - name: Docs
+    - name: Recipes
       pageRef: /docs
       weight: 1
     - name: About
